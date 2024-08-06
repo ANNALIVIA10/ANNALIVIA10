@@ -1,4 +1,14 @@
-## Hi there 👋
+Ola, me chamo Anna Livia!👋
+Sou estudante do oscarlina e faço curso no senai, que inclusive é uma das minhas coisas favoritas do dia a dia, eu adoro cozinhar, inventar coisas novas, fazer bolos... e por assim vai indo, sempre tento inovar para não cair na rotina. Sou uma garota muito autentica, com personalidade muito forte, gosto que as coisas sejam do meu jeito🤣
+Confesoo que não sou uma pessoa que curte ficar lendo, e estudando, mas gosto de sempre prestar atenção nas aulas e fazer todas as lições certinho, amo inclusive, deixar todas as coisas dos meus cadernos coloridas, é a minha essencia.
+Mas por fim, tenho 16 anos, nasci em Jundiai [mas cresci em Itatiba] e tambem adoro as coisas da moda, amo estar sempre bem vestida, me maquiar, perfumar... é realmente o meu hobbie!
+
+
+![CoffeeTimeMorningCoffeeGIF](https://github.com/user-attachments/assets/29cd29d0-a879-4ce5-abe7-390cac80dd03)
+
+Na minha aula de tecnologia e robotica fiz um projeto muito legal, ele é basicamente um jogo de ping pong, onde ele é virtual e fica realmente com uma raquete jogando\brincando com uma bolinha divertida.
+
+https://scratch.mit.edu/projects/1032148056
 
 <!--
 **ANNALIVIA10/ANNALIVIA10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
